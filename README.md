@@ -10,8 +10,8 @@ This project demonstrates how to take a standard [Create React App](https://gith
 ## Demo
 Here is the app running successfully from the Docker container, served by Nginx.
 
-![React App running in Docker](screenshots/app-running.png)
-
+![React App running in Docker](https://github.com/ravishankar1810/docker-react-app/blob/989ecc96f92bf0e9ebd092ce6dbde14657ed2ca5/Screenshot%202025-11-06%20010930.png)
+![React App running in Docker](https://github.com/ravishankar1810/docker-react-app/blob/989ecc96f92bf0e9ebd092ce6dbde14657ed2ca5/Screenshot%202025-11-06%20010948.png)
 ## What This Project Teaches (The "Why")
 
 This multi-stage build is a best practice for containerizing front-end applications.
