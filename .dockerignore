@@ -1,0 +1,11 @@
+# Exclude dependencies, which will be installed inside the container
+node_modules
+
+# Exclude the build output, which will be generated inside the container
+build
+
+# Exclude Git and other local files
+.git
+.gitignore
+npm-debug.log
+README.md
